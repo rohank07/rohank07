@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohank07&label=Profile%20views&color=0e75b6&style=flat" alt="rohank07" /> </p>
 
-- 🌱 I’m currently learning **K8s, Networking in K8s, ArgoCD**
+- 🌱 I’m currently learning **K8s, Networking in K8s, ArgoCD, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohank07](https://github.com/rohank07)
 
