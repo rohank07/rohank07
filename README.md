@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">A passionate DevOps Developer currently working for Statistics Canada</h3>
+<h3 align="center">A passionate I'm a software developer/DevOps engineer currently working for Statistics Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohank07&label=Profile%20views&color=0e75b6&style=flat" alt="rohank07" /> </p>
 
