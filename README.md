@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">I'm a Kubernetes and DevOps Engineer currently working for <a href="https://www.dnv.com/">DNV</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohank07&label=Profile%20views&color=0e75b6&style=flat" alt="rohank07" /> </p>
-
-- 🌱 I’m currently learning **K8s, Networking in K8s, ArgoCD, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohank07](https://github.com/rohank07)
 
