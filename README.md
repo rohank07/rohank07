@@ -14,4 +14,4 @@
  <a href="https://www.argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argoCD" width="40" height="40"/> </a></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohank07&show_icons=true&locale=en" alt="rohank07" /></p>
+
